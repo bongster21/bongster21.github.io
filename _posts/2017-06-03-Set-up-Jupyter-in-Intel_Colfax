@@ -71,13 +71,13 @@ Before runnig Jupyter Notebook, once logout.
 logout
 
 And, runnig Jupyter Notebook via ssh tunneling
-ssh -L 1234:localhost:1234 colfax -Y
+ssh -L 8890:localhost:8890 colfax -Y
 source activate test_env
 jupyter notebook --no-browser
 
 Note: The window (ran command) should be kept opened!
 Note: You can change port this step (Special thanks to Sriracha's comment)
-ssh -L 4321:localhost:4321 colfax -Y
+ssh -L 8890:localhost:8890 colfax -Y
 source activate test_env
 jupyter notebook --no-browser --port=4321
 1-5. Access to Jupyter Notebook on Colfax Cluste by your local machine's browser
