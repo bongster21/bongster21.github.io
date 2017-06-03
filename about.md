@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is Eric. I am an application developer at Arup, and at work I create digital engineering solutions. These are several projects/goals I want to complete this year, and this blog will document my journey through it. 
+
+1. Data Science
+All the hype about it, right? At office, we are doing some image recognition projects and probably also some machine learning. I'll also try to join a few Kaggle competitions. There's a range of technology I'd like to work with, like Spark, TensorFlow, Caffe. Skills I'd like to gain include: 
+: solve machine learning problems
+: solve image recognition problems
+: set up data pipeline
+: do intelligent web-scrapping 
+
+2. Run Batch processes in the cloud
+This gives me a good chance to get in deep with Docker and AWS. Hopefully by the end I'll become a master of them!
+
+3. Earthworm
+Earthworm is a geotechnical suite we are developing on grasshopper using Python. The challenge is more of designing a streamlined workflow and a nice and flexible UX. But that's good, because I can practice my python! Also, along the way we might be able to add in some data science modules and cloud storage. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Eric is a certified C# developer, full-stack web developer and data scientist in training.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fullstopz@gmail.com](mailto:fullstopz@gmail.com)
