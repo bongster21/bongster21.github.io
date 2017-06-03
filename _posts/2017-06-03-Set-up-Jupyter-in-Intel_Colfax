@@ -1,3 +1,10 @@
+---
+layout: post
+title: Setting up the blog using Jekyll and Github
+---
+Copied from
+https://www.kaggle.com/kambarakun/how-to-start-with-python-on-colfax-cluster
+
 0. First of all
 This kernel is the tutorial to explore and visualize datasets and train Convolutional Neural Network (CNN) on keras.
 I'm not good at English. So, please post a comment if there are any unknown points:)
