@@ -1,5 +1,7 @@
-Title: A List of Deep Learning Tasks
-
+---
+layout: post
+title: A List of Deep Learning Tasks
+---
 Kaggle Competition on Cervical Cancer Screening: https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening
 Stanford Image Recognition Master Class: http://cs231n.github.io/
 Running Caffe on AWS using Docker: http://tleyden.github.io/blog/2014/10/25/running-caffe-on-aws-gpu-instance-via-docker/
