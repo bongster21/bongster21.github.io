@@ -22,10 +22,15 @@ title: A List of Deep Learning Tasks
 - caffe is installed and jupyter notebook examples can be opened
 - but the examples cannot be run for various reasons. Memory problem, read-only directory, etc.
 - caffe needs python 2 environment to be set up
+
     conda create -n ipykernel_py2 python=2 ipykernel
+    
     source activate ipykernel_py2    # On Windows, remove the word 'source'
+    
     python -m ipykernel install --user
+    
     conda install numpy pandas opencv scikit-learn matplotlib tensorflow keras jupyter scikit-image
+    
 - Colfex can send jobs to queue in the different nodes
     https://access.colfaxresearch.com/?p=compute
     Submit a Shell Command
