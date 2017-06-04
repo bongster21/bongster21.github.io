@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up the blog using Jekyll and Github
+title: Set up Jupyter in Intel Colfax
 ---
 Copied from
 https://www.kaggle.com/kambarakun/how-to-start-with-python-on-colfax-cluster
