@@ -12,9 +12,13 @@ title: A List of Deep Learning Tasks
 - half successful
 - set up a ssh on mac to connect to INTEL COLFEX using
     And, runnig Jupyter Notebook via ssh tunneling
+    
       ssh -L 8890:localhost:8890 colfax -Y
+      
       source activate test_env
+      
       jupyter notebook --no-browser
+      
 - caffe is installed and jupyter notebook examples can be opened
 - but the examples cannot be run for various reasons. Memory problem, read-only directory, etc.
 - caffe needs python 2 environment to be set up
