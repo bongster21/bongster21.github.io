@@ -1,4 +1,7 @@
-Iron Python and Excel
+---
+layout: post
+title: Iron Python and Excel
+---
 
 So how do we interact with Excel in Grasshopper, and more particularly, to call a macro that's stored inside the xlsm file?
 
