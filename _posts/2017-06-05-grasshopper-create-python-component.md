@@ -30,7 +30,7 @@ The .py are not linked but are exported as a reference. It is done using this sc
 https://github.com/mostaphaRoudsari/ladybug/blob/master/src/Ladybug_Export%20Ladybug.py
 And also the update component script will be very useful
 https://github.com/mostaphaRoudsari/ladybug/blob/master/src/Ladybug_Update%20Ladybug.py
-
+***
 
 
 Also we have to find out how to link with numpy, scipy etc.
