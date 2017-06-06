@@ -25,6 +25,14 @@ So, we are using this workflow:
 This allows the script to be protected if wanted. The files can be uploaded to a github like ladybug. Also, we can create a function to update scripts from grasshopper like ladybug does. Ladybug probably uses this approach also, as it is made up of .ghuser and .py files. We have to figure out how to link the .py file to the .ghuser files, or are the .py files simply exports of the scripts (i.e. they're not linked?)
 https://github.com/mostaphaRoudsari/ladybug 
 
+**EDITS 6/6/2017***
+The .py are not linked but are exported as a reference. It is done using this script:
+https://github.com/mostaphaRoudsari/ladybug/blob/master/src/Ladybug_Export%20Ladybug.py
+And also the update component script will be very useful
+https://github.com/mostaphaRoudsari/ladybug/blob/master/src/Ladybug_Update%20Ladybug.py
+
+
+
 Also we have to find out how to link with numpy, scipy etc.
 
 I figure out you can add the user object to the ribbon layout in step 5 by specifying the category (you can make one up if it doesn't exist) and the subcategory. When .ghuser is loaded again, it will pull in the new ribbon.
