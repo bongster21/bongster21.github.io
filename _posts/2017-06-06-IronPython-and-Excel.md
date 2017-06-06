@@ -11,9 +11,9 @@ First, we can use bumblebee, a grasshopper plugin suite that interfaces with Exc
 Just look at all these cute grasshopper plugins!
 
 The way to do it with Python outside Grasshoper is using win32com.client
+    
     import os
     import win32com.client
-
     if os.path.exists("excelsheet.xlsm"):
         xl=win32com.client.Dispatch("Excel.Application")
         xl.Workbooks.Open(Filename="C:\Full Location\To\excelsheet.xlsm", ReadOnly=1)
