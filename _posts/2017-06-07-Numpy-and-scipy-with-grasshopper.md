@@ -75,4 +75,4 @@ Right now I'm looking into suppressing the python window.
 
 As a result, Earthworm's architecture using Grasshopper as a platform would look something like this:
 
-![Grasshopper architecture]({{ site.url }}/images/architecture.png)
+![Grasshopper architecture]({{ site.url }}/images/Architecture.PNG)
