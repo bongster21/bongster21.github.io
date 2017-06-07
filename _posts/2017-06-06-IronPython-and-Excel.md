@@ -39,4 +39,8 @@ In Grasshopper's IronPython, we can use clr to reference the Excel COM object
 Very useful information here:
     http://www.ironpython.info/index.php?title=Interacting_with_Excel
     
-Or else, we can use python library xlrd, xlwt and xlutils.
+Or else, we can use python library xlrd, xlwt and xlutils. (Note: they don't work with xlsm files)
+
+        import xlrd
+        book = xlrd.open_workbook("D:/Eric/Projects/Earthworm/Piglet Files/Type 1 - seismic rev.xls")
+        print(book.nsheets)
