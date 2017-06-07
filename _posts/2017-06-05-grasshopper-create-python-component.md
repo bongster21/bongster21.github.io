@@ -5,15 +5,15 @@ title: Grasshopper Python Component
 
 Today I spent some time to create a flowchart of the existing workflow of foundation design.
 
-![My helpful screenshot]({{ site.url }}/images/foundation_design_flowchart.PNG)
+![Foundation Design Flowchart]({{ site.url }}/images/foundation_design_flowchart.PNG)
 
 This is created from a fun whiteboard workshop held last Friday.
 
-![My helpful screenshot]({{ site.url }}/images/whiteboard_flowchart.jpg)
+![Whiteboard Flowchart]({{ site.url }}/images/whiteboard_flowchart.jpg)
 
 Really, we need to do this for every workflow. This is incredibly helpful and in my opinion the best way to increase efficiency. Our consulting service for change management/workflow improvement would look something like this, image taken from the guys at proving ground:
 
-![My helpful screenshot]({{ site.url }}/images/workflow_roadmap.PNG)
+![Workflow Roadmap]({{ site.url }}/images/workflow_roadmap.PNG)
 
 
 Today we started the development of Grasshopper. We wanted to use python instead of C#, VB, just for the sake of using python because everything else is using python. However, while we assumed the process is similar to that of creating an ArcGIS add-in, it's not as straightforward as it seems.
