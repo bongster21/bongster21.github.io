@@ -1,3 +1,9 @@
+---
+layout: post
+title: Iron Python and Excel
+---
+
+
 Sad day..
 We found out numpy and scipy don't work on Grasshopper's IronPython, especially in Rhino 64bit. So all the python libraries are basically useless..
 
