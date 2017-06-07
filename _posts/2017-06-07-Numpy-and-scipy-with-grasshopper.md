@@ -13,7 +13,12 @@ We found out numpy and scipy don't work on Grasshopper's IronPython, especially 
 ![Python Sci Packing]({{ site.url }}/images/python_sci_pack_ing.PNG)
 
 
+A detailed installation guide (rhino 32bit only and only partial numpy/scipy)
+https://github.com/pilcru/wiki/wiki/Installing-numpy-and-scipy-for-Rhino---Grasshopper
+
 There's a far-fetched work around, which is to create a C# component that calls a vanilla python script.
+
+>>Copied from a post:
 
 I just found a way to execute a Python script from a C# component in Grasshopper!
 (Not with IronPython, but with Python 2.7). So numpy and scipy should work. 
