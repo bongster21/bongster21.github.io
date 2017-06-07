@@ -9,6 +9,8 @@ I am not familiar with Ubuntu.  I run into a few questions:
 2.	I try to download a python library using pip, but I get ProxyError problem:
 
   Tunnel connection failed: 407 Proxy Authentication Required
+ ![Proxy Error]({{ site.url }}/images/proxyerror.png)
+ 
  
 3.	What is the $CAFFE_ROOT? There should be some examples and scripts there, how can I access them?
     .cd $CAFFE_ROOT
