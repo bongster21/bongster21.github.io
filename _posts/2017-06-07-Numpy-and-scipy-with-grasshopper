@@ -7,6 +7,12 @@ title: Iron Python and Excel
 Sad day..
 We found out numpy and scipy don't work on Grasshopper's IronPython, especially in Rhino 64bit. So all the python libraries are basically useless..
 
+
+![Iron Python]({{ site.url }}/images/ironpython.PNG)
+
+![Python Sci Packing]({{ site.url }}/images/python_sci_pack_ing.PNG)
+
+
 There's a far-fetched work around, which is to create a C# component that calls a vanilla python script.
 
 I just found a way to execute a Python script from a C# component in Grasshopper!
