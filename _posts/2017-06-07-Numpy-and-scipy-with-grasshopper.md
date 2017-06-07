@@ -8,9 +8,9 @@ Sad day..
 We found out numpy and scipy don't work on Grasshopper's IronPython, especially in Rhino 64bit. So all the python libraries are basically useless..
 
 
-![Iron Python]({{ site.url }}/images/ironpython.PNG)
+![Iron Python]({{ site.url }}/images/ironpython.png)
 
-![Python Sci Packing]({{ site.url }}/images/python_sci_pack_ing.PNG)
+![Python Sci Packing]({{ site.url }}/images/python_sci_pack_ing.png)
 
 
 A detailed installation guide (rhino 32bit only and only partial numpy/scipy)
