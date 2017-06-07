@@ -10,6 +10,9 @@ We found out numpy and scipy don't work on Grasshopper's IronPython, especially 
 
 ![Iron Python]({{ site.url }}/images/ironpython.png)
 
+Sad comment:
+>>"IronPython is pathetic abandonware. Please get rid of it, McNeel, and make your system work with normal Python, period. And also include Numpy/Scipy and any other core libraries normal users would use a lot, so normal clients don't have to do convoluted installations that are deal killers since they will usually fail."
+
 ![Python Sci Packing]({{ site.url }}/images/python_sci_pack_ing.png)
 
 
