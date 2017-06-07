@@ -21,7 +21,7 @@ https://github.com/pilcru/wiki/wiki/Installing-numpy-and-scipy-for-Rhino---Grass
 
 There's a far-fetched work around, which is to create a C# component that calls a vanilla python script.
 
->>Copied from a post:
+--Copied from a post:
 
 I just found a way to execute a Python script from a C# component in Grasshopper!
 (Not with IronPython, but with Python 2.7). So numpy and scipy should work. 
@@ -70,3 +70,9 @@ Hello!
 !olleh
 Right now I'm looking into suppressing the python window. 
 (It pops up for a second when you run this.)
+
+
+
+As a result, Earthworm's architecture using Grasshopper as a platform would look something like this:
+
+![Grasshopper architecture]({{ site.url }}/images/architecture.png)
