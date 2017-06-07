@@ -13,9 +13,10 @@ I am not familiar with Ubuntu.  I run into a few questions:
  
  
 3.	What is the $CAFFE_ROOT? There should be some examples and scripts there, how can I access them?
-    .cd $CAFFE_ROOT
-    ./data/mnist/get_mnist.sh
-    ./examples/mnist/create_mnist.sh
+
+        .cd $CAFFE_ROOT
+        ./data/mnist/get_mnist.sh
+        ./examples/mnist/create_mnist.sh
 
 
 Thanks! A lot to learn.
