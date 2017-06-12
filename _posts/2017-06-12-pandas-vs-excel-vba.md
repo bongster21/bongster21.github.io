@@ -9,7 +9,10 @@ Today I had to write an ad hoc script with VBA. Only now do I realize how rudime
 Some comparisons:
 
 1. Is an element in an array
-VBA:
+
+
+        VBA:
+        
         Private Function isSoilOK(Soil As String)
     
             Dim SoilOK(6) As String
@@ -53,7 +56,9 @@ Python:
     group[group.GEOL.isin(soil.values)]
     
 2. Forward Fill
-VBA:
+
+
+            VBA:
             Dim LastUCS As Double
             Dim LastRQD As Double
             LastUCS = 0
@@ -89,7 +94,8 @@ Python:
     
     
 3. Split-Apply-Combine
-VBA:
+
+            VBA:
     
             Dim BH_Start As Long
             BH_Start = 4
