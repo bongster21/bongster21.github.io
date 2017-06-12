@@ -10,7 +10,6 @@ Some comparisons:
 
 1. Is an element in an array
 VBA:
-
     Private Function isSoilOK(Soil As String)
         Dim SoilOK(6) As String
         SoilOK(0) = "I(B)"
@@ -29,6 +28,7 @@ VBA:
     Private Function IsInArray(stringToBeFound As String, arr As Variant) As Boolean
       IsInArray = (UBound(Filter(arr, stringToBeFound)) > -1)
     End Function
+    
 
 Python:
 
@@ -37,7 +37,6 @@ Python:
     
 2. Forward Fill
 VBA:
-
     Dim LastUCS As Double
     Dim LastRQD As Double
     LastUCS = 0
@@ -64,6 +63,7 @@ VBA:
             LastRQD = RQD ''Update LastRQD
         End If
     Next
+    
 
 Python:
 
@@ -73,7 +73,7 @@ Python:
     
 3. Split-Apply-Combine
 VBA:
-
+    
     Dim BH_Start As Long
     BH_Start = 4
     Dim CurrentBH_ID As String
