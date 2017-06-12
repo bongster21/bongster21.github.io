@@ -113,6 +113,7 @@ Python
 Well.. Python is the clear winner here. The only thing is, probably because I'm not used to using Python, I often have to go back to Excel to look at the values to check whether my python code is giving me the correct results, and I found a few mistakes that I might not have found using Excel. Excel's GUI is still very user-friendly to visualize data.
 
 
-    
+Full code here:
+https://github.com/bongster21/rockhead
     
   
