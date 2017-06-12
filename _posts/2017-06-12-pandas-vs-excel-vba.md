@@ -11,22 +11,39 @@ Some comparisons:
 1. Is an element in an array
 VBA:
     Private Function isSoilOK(Soil As String)
+    
         Dim SoilOK(6) As String
+        
         SoilOK(0) = "I(B)"
+        
         SoilOK(1) = "I/II(B)"
+        
         SoilOK(2) = "II(B)"
+        
         SoilOK(3) = "II/III(B)"
+        
         SoilOK(4) = "III(B)"
+        
         SoilOK(5) = "III/II(B)"
+        
         SoilOK(6) = "III/II/I(B)"
+        
         If IsInArray(Soil, SoilOK) Then
+        
             isSoilOK = True
+            
         Else
+        
             isSoilOK = False
+            
         End If
+        
     End Function
+    
     Private Function IsInArray(stringToBeFound As String, arr As Variant) As Boolean
+    
       IsInArray = (UBound(Filter(arr, stringToBeFound)) > -1)
+      
     End Function
     
 
