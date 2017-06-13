@@ -1,4 +1,9 @@
-![Shopping mall dashboard]({{ site.url }}/images/shoppingmall_dashboard.jpg)
+---
+layout: post
+title: Deploying HotTowel Angular Dashboards on Heroku
+---
+
+![Shopping mall dashboard]({{ site.url }}/images/shoppingmall_dashboard.PNG)
 
 We implemented a simple shopping mall dashboard to show some useful analytics. The map is zoomed in very much so you can't see the overall plan, because the data has remain anonymous.
 
