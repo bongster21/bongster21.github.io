@@ -3,6 +3,7 @@
 layout: post
 title: Pandas vs Excel VBA
 ---
+![subcon3]({{ site.url }}/images/rockhead.PNG)
 
 Today I had to write an ad hoc script with VBA. Only now do I realize how rudimental the functions in VBA are when compared to python! I wrote the script in Excel with around 120 lines, and only 19 lines with python! There's no easy way to check if an element is in an array in vba, nor forward fill, nor split by id, but all these are found in python. 
 
