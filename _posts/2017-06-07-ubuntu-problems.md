@@ -1,4 +1,4 @@
-![ubuntu]({{ site.url }}/images/ubuntu.PNG)
+![caffe]({{ site.url }}/images/caffe.PNG)
 
 
 Hi Wen,
