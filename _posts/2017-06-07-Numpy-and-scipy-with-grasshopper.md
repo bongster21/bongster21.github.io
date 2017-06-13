@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iron Python and Excel
+title: Numpy and Scipy with IronPython
 ---
 
 ![Iron Python]({{ site.url }}/images/ironpython.png)
