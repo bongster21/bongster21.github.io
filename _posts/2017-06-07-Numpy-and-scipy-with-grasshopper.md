@@ -3,12 +3,12 @@ layout: post
 title: Iron Python and Excel
 ---
 
+![Iron Python]({{ site.url }}/images/ironpython.png)
 
 Sad day..
 We found out numpy and scipy don't work on Grasshopper's IronPython, especially in Rhino 64bit. So all the python libraries are basically useless..
 
 
-![Iron Python]({{ site.url }}/images/ironpython.png)
 
 Sad comment:
 >>"IronPython is pathetic abandonware. Please get rid of it, McNeel, and make your system work with normal Python, period. And also include Numpy/Scipy and any other core libraries normal users would use a lot, so normal clients don't have to do convoluted installations that are deal killers since they will usually fail."
