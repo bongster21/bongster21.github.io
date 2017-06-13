@@ -2,12 +2,12 @@
 layout: post
 title: Grasshopper Python Component
 ---
-
+![Foundation Design Flowchart]({{ site.url }}/images/foundation_design_flowchart.PNG)
 Today I spent some time to create a flowchart of the existing workflow of foundation design.
 
-![Foundation Design Flowchart]({{ site.url }}/images/foundation_design_flowchart.PNG)
 
-This is created from a fun whiteboard workshop held last Friday.
+
+This is created from a fun whiteboard workshop held last Friday:
 
 ![Whiteboard Flowchart]({{ site.url }}/images/whiteboard_flowchart.jpg)
 
