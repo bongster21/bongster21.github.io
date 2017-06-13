@@ -1,3 +1,6 @@
+![ubuntu]({{ site.url }}/images/ubuntu.PNG)
+
+
 Hi Wen,
 
 I am trying to follow some tutorials on caffe:
