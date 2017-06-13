@@ -1,4 +1,4 @@
-![caffe]({{ site.url }}/images/caffe.PNG)
+![caffe]({{ site.url }}/images/caffe.png)
 
 
 Hi Wen,
