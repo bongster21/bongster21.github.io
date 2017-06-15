@@ -11,7 +11,7 @@ Shanghai Pile Dashboard
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhyV4KIy0JA" frameborder="0" allowfullscreen></iframe>
 
 Technology: Angular, D3, Plotly, Leaflet, Postgres, Loopback, Gulp, Node, Heroku
-This dashboard is built to monitor the pile progress of XJH Center, a high-rise in Shanghai. The data input from engineers are collected in their regular Excel forms and synced to the database through a python script. From the dashboard, the engineer can easily see where there are any anomalies in the data collected and whether there is any delay. Through filtering by pile type, machinery or engineers’ notes, they can further drill down into the data and identify the cause.
+This dashboard is built to monitor the pile progress  for a major high-rise in Shanghai. The data input from engineers are collected in their regular Excel forms and synced to the database through a python script. From the dashboard, the engineer can easily see where there are any anomalies in the data collected and whether there is any delay. Through filtering by pile type, machinery or engineers’ notes, they can further drill down into the data and identify the cause.
 
 
 
@@ -20,7 +20,7 @@ Shopping Mall Dashboard
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGDG8wZwt_c" frameborder="0" allowfullscreen></iframe>
 
 Technology: Angular, D3, Plotly, Leaflet, Postgres, Loopback, Gulp, Node, Heroku
-This prototype dashboard is developed for New World Development Company to demonstrate the usefulness of shopping mall analytics. The project is done on a set of sample data provided to us on K11, one of their shopping malls. The sample data includes MAC addresses of mobile phones connected to the WIFI, social media data and CRM data. From these we are able to determine the hot and cold zones, dwell times, customer paths, stay spots analysis, time of day profile and shop profile analysis. 
+This prototype dashboard is developed for a major shopping mall to demonstrate the usefulness of shopping mall analytics. We are able to determine the hot and cold zones, dwell times, customer paths, stay spots analysis, time of day profile and shop profile analysis. 
 
 
 
