@@ -64,3 +64,15 @@ Reinstall xcode command line tools
 xcode-select --install
 
 -------------------------
+
+Error: dynamic module does not define module export function (PyInit__caffe)
+Solution: use python 2.7
+
+-------------------------
+
+export DYLD_LIBRARY_PATH='/Developer/NVIDIA/CuDNN-7.0-r3/lib':$DYLD_LIBRARY_PATH
+export DYLD_LIBRARY_PATH='/usr/local/cuda/lib/':$DYLD_LIBRARY_PATH
+export PYTHONPATH=~/Documents/caffe/python:$PYTHONPATH
+
+
+https://gist.github.com/kylemcdonald/0698c7749e483cd43a0e
