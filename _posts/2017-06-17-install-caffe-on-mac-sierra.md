@@ -76,3 +76,13 @@ export PYTHONPATH=~/Documents/caffe/python:$PYTHONPATH
 
 
 https://gist.github.com/kylemcdonald/0698c7749e483cd43a0e
+
+__________________________
+
+
+Create virtual env
+
+
+pip install virtualenv
+virtualenv --python=python3.5 .venv
+source .venv/bin/activate
