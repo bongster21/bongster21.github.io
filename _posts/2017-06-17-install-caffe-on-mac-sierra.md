@@ -58,5 +58,9 @@ make runtest
 ------------------
 
 Error: missing veclib
+
 Reinstall xcode command line tools
+
 xcode-select --install
+
+-------------------------
