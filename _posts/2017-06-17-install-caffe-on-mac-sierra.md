@@ -54,3 +54,9 @@ Speed: for a faster build, compile in parallel by doing make all -j8 where 8 is 
 
 make test
 make runtest
+
+------------------
+
+Error: missing veclib
+Reinstall xcode command line tools
+xcode-select --install
