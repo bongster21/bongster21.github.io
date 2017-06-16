@@ -46,6 +46,8 @@ brew install python
 and update in Makefile.config:
 PYTHON_INCLUDE := /usr/local/lib/python2.7/site-packages/numpy/core/include/ /usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/include/python2.7
 
+PYTHON_LIB := /usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/
+
 ------------------
 
 make all
