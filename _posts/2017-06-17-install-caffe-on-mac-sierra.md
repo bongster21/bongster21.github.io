@@ -86,3 +86,15 @@ Create virtual env
 pip install virtualenv
 virtualenv --python=python3.5 .venv
 source .venv/bin/activate
+
+___________________________
+
+switch python to 2.7
+
+vi ~/.bash_profile
+i
+export PATH="/usr/local/python2.7"
+ESC
+:wq
+
+call /usr/bin/python
