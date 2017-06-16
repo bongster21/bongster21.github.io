@@ -93,8 +93,12 @@ switch python to 2.7
 
 vi ~/.bash_profile
 i
-export PATH="/usr/local/python2.7"
+export PATH=/usr/local/bin/python:$PYTHON
 ESC
 :wq
 
+source ~/.bash_profile
+
 call /usr/bin/python
+
+
