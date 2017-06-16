@@ -37,6 +37,17 @@ BLAS_LIB := /path/to/your/blas
 
 ------------------
 
+Error: missing pyconfig
+
+Somehow system python cannot be used because pyconfig.h does not exist! (exist only in python-dev)
+So, do:
+brew install python 
+
+and update in Makefile.config:
+PYTHON_INCLUDE := /usr/local/lib/python2.7/site-packages/numpy/core/include/ /usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/include/python2.7
+
+------------------
+
 make all
 make test
 make runtest
