@@ -49,5 +49,8 @@ PYTHON_INCLUDE := /usr/local/lib/python2.7/site-packages/numpy/core/include/ /us
 ------------------
 
 make all
+
+Speed: for a faster build, compile in parallel by doing make all -j8 where 8 is the number of parallel threads for compilation
+
 make test
 make runtest
