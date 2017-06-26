@@ -19,6 +19,7 @@ Note: the solution from gh to d3 is not nice at all. It works on the basis of fi
 
 ![pythonvis]({{ site.url }}/images/pythonvis.PNG)
 
+'''python
 import os
 import sys
 import fileinput
@@ -66,3 +67,4 @@ fin.close()
 fout.close()
 
 webbrowser.open(file_out, new=0, autoraise=True)
+'''
