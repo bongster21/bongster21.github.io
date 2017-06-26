@@ -6,7 +6,8 @@ title: Iron Python and Excel
 So how do we interact with Excel in Grasshopper, and more particularly, to call a macro that's stored inside the xlsm file?
 
 First, we can use bumblebee, a grasshopper plugin suite that interfaces with Excel.
-![My helpful screenshot]({{ site.url }}/images/ladybug_grasshopper_butterfly_honeybee.png
+
+![bumblebee]({{ site.url }}/images/ladybug_grasshopper_butterfly_honeybee.png)
 
 Just look at all these cute grasshopper plugins!
 
