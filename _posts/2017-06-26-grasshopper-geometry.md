@@ -17,6 +17,8 @@ Note: the solution from gh to d3 is not nice at all. It works on the basis of fi
 
 ![gh_d3]({{ site.url }}/images/gh_d3.PNG)
 
+![pythonvis]({{ site.url }}/images/pythonvis.PNG)
+
 import os
 import sys
 import fileinput
